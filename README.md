@@ -22,6 +22,6 @@
     <td colspan="2" align="center"><img src="assets/ghimg3-ghimg7.webp" alt="Character portrait next to purple-haired illustration" width="540" /></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="assets/ghimg23-ghimg22-ghimg24.webp" alt="Three illustrations arranged with padding" width="540" /></td>
+    <td colspan="2" align="center"><img src="assets/ghimg23-ghimg22-ghimg24.webp" alt="Three illustrations arranged with spacing between them" width="540" /></td>
   </tr>
 </table>
