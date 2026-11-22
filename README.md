@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td colspan="2" align="center"><img src="assets/ghimg5.webp" alt="Music themed illustration" width="540" /></td>
-    <td rowspan="5" align="center" valign="middle"><img src="assets/right-column-19-top.webp" alt="Character artwork with a fireworks banner at the top" width="300" /></td>
+    <td rowspan="6" align="center" valign="middle"><img src="assets/right-column-19-top-updated.webp" alt="Character artwork with a fireworks banner at the top" width="300" /></td>
   </tr>
   <tr>
     <td colspan="2" align="center">
@@ -20,5 +20,8 @@
   </tr>
   <tr>
     <td colspan="2" align="center"><img src="assets/ghimg3-ghimg7.webp" alt="Character portrait next to purple-haired illustration" width="540" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="assets/ghimg23-ghimg22-ghimg24.webp" alt="Three illustrations arranged with padding" width="540" /></td>
   </tr>
 </table>
