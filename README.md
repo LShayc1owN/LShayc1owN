@@ -16,11 +16,9 @@
     <td colspan="2" align="center"><img src="assets/ghimg2.webp" alt="Colorful music illustration" width="540" /></td>
   </tr>
   <tr>
-    <td align="center" valign="middle"><img src="assets/ghimg6.webp" alt="Blue-haired character" width="270" /></td>
-    <td align="center"><img src="assets/ghimg4.webp" alt="Blue-haired character portrait" width="270" /></td>
+    <td colspan="2" align="center"><img src="assets/ghimg6.webp" alt="Blue-haired character" width="355" /><img src="assets/ghimg4.webp" alt="Blue-haired character portrait" width="185" /></td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/ghimg3.webp" alt="Character portrait" width="270" /></td>
-    <td align="center" valign="middle"><img src="assets/ghimg7.webp" alt="Purple-haired character" width="270" /></td>
+    <td colspan="2" align="center"><img src="assets/ghimg3.webp" alt="Character portrait" width="185" /><img src="assets/ghimg7.webp" alt="Purple-haired character" width="355" /></td>
   </tr>
 </table>
