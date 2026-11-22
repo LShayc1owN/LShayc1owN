@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td colspan="2" align="center"><img src="assets/ghimg5.webp" alt="Music themed illustration" width="540" /></td>
-    <td rowspan="6" align="center" valign="middle"><img src="assets/right-column-19-top-updated.webp" alt="Character artwork with a fireworks banner at the top" width="300" /></td>
+    <td rowspan="6" align="center" valign="top"><img src="assets/right-column-19-top-updated.webp" alt="Character artwork with a fireworks banner at the top" width="300" /></td>
   </tr>
   <tr>
     <td colspan="2" align="center">
